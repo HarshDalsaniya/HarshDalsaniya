@@ -123,7 +123,7 @@
   <img height="50%" width="auto" id="HarshDalsaniya-2" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrunal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img id="HarshDalsaniya-3" src ="https://github-readme-streak-stats.herokuapp.com?user=HarshDalsaniya&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  <img id="HarshDalsaniya-4" src ="https://github-profile-trophy.vercel.app/?username=HarshrInfynno&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+  <img id="HarshDalsaniya-4" src ="https://github-profile-trophy.vercel.app/?username=HarshDalsaniya&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
 
  -->
